@@ -1,0 +1,80 @@
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Prototype Reworked.exe.config
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Prototype Reworked.exe
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Prototype Reworked.pdb
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\MetroFramework.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype_Reworked.Appointments.resources
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype_Reworked.frmControl.resources
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype_Reworked.Dashboard.resources
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype_Reworked.NewPatient.resources
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype_Reworked.Properties.Resources.resources
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype_Reworked.PatientFinder.resources
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype Reworked.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype Reworked.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype Reworked.csproj.CopyComplete
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype Reworked.exe
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype Reworked.pdb
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\obj\Debug\Prototype Reworked.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Azure.Core.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Azure.Identity.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Buffers.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Data.SqlClient.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Memory.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Security.AccessControl.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Security.Permissions.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Text.Json.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Azure.Core.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Azure.Identity.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Buffers.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Data.SqlClient.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Memory.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Security.AccessControl.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Security.Permissions.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Text.Json.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\chris\source\repos\Prototype Reworked\Prototype Reworked\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
